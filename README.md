@@ -1,5 +1,5 @@
 # Bike Sales Analysis
-Bike Sales Dashboard
+The main goal of this project is to use Excel to create a dashboard that will analyze bike sales count data across different regions, occupations, and factors that influence the demand for bikes.
 
 
 
