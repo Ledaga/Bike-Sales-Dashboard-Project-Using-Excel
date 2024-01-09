@@ -1,5 +1,6 @@
 # Bike Sales Analysis
 The main goal of this project is to use Excel to create a dashboard that will analyze bike sales count data across different regions, occupations, and factors that influence the demand for bikes.
+
 I completed a number of tasks in order to meet the project's objective.
 Firstly, I familiaried myself with the dataset.
 I then carried out formatting, find and replace, and data cleaning to get rid of any duplicates, spaces, and special characters.
